@@ -13,7 +13,7 @@ function WorkshopSection() {
       <div className='carts'>
           {
             data.map((dat) => {
-              return <Cart key= { data.id }data = {dat}/>
+              return <Cart key= { dat.id }data = {dat}/>
             })
           
           }
