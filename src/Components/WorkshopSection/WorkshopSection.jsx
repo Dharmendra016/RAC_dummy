@@ -1,5 +1,5 @@
 import React from 'react'
-import "./Workshopsection.css"
+import "./WorkshopSection.css"
 import data from '../../data'
 import Cart from '../Cart/Cart'
 
