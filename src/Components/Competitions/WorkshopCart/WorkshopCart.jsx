@@ -3,7 +3,6 @@ import "./WorkshopCart.css"
 import {FcLikePlaceholder} from "react-icons/fc";
 import {FcLike} from "react-icons/fc"
 import { toast } from "react-toastify";
-import { ToastContainer } from 'react-toastify';
 
 function WorkshopCart({data}) {
 
