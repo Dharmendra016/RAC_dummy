@@ -11,6 +11,10 @@
     border-radius: 10px;
     align-items: center;
     padding: 1rem;
+    transition: 0.4s;
+}
+.workshop-cart:hover{
+    transform: translateY(-30px);
 }
 
 .workshop-heading{
