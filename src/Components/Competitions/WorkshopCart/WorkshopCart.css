@@ -11,6 +11,7 @@
     border-radius: 10px;
     align-items: center;
     padding: 1rem;
+    cursor: pointer;
     transition: 0.4s;
 }
 .workshop-cart:hover{
@@ -34,4 +35,5 @@
     width: 40px;
     border: none;
     background-color: rgb(214, 214, 214);
+    cursor: pointer;
 }
