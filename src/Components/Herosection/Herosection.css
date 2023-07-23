@@ -27,6 +27,12 @@
     width: 100%;
     border-radius: 6px;
     box-shadow: 15px 7px 11px rgb(175, 164, 164);
+    transition: 0.4s;
+    cursor: pointer;
+}
+
+.left-part img:hover{
+    scale: 1.4;
 }
 
 .heading{

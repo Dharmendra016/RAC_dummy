@@ -1,5 +1,14 @@
 .Competitions{
     width: 1080px;
     margin: 0 auto;
-    height: 100vh;
+}
+.workshop-carts{
+    margin-block: 100px;
+    display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  /* align-items: center; */
+  /* max-width: 1300px ; */
+  /* margin: 0 auto ; */
+  gap: 10px;
 }

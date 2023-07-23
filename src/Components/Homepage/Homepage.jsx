@@ -2,6 +2,7 @@ import React from 'react'
 import Herosection from '../Herosection/Herosection';
 import WorkshopSection from '../WorkshopSection/WorkshopSection';
 import Competitions from '../Competitions/Competitions';
+import Footer from '../Footer/Footer';
 
 function Homepage() {
   return (
@@ -9,6 +10,7 @@ function Homepage() {
       <Herosection/>
       <WorkshopSection/>
       <Competitions/>
+      <Footer></Footer>
     </div>
   )
 }

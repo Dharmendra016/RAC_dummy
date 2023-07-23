@@ -24,8 +24,8 @@ const workshopData = [
     },
     
     {
-        id:1,
-        image:"./images_for_resources/workshop_on_rc_car_racing_2023/IMG_20230107_165827.jpg",
+        id:5,
+        image:"./images_for_resources/IMG_20230107_165827.jpg",
         title:"Rc-workshop"
     },
 ];

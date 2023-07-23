@@ -1,0 +1,33 @@
+.workshop-img{
+    width: 300px;
+    /* height: 300px; */
+    aspect-ratio: 1/1;
+    object-fit: cover;
+}
+
+.workshop-cart{
+    margin-block:20px;
+    box-shadow: 0px 3px 8px rgba(0,0,0,0.24);
+    border-radius: 10px;
+    align-items: center;
+    padding: 1rem;
+}
+
+.workshop-heading{
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+.like-sec{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.likeBtn{
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    border: none;
+    background-color: rgb(214, 214, 214);
+}
