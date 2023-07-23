@@ -14,7 +14,7 @@ function Herosection() {
         </div>
 
         <div className="left-part">
-          <img src="../../public/Competitions_and_project_demostration_image/IMG_4202.jpg" alt="image" />
+          <img src="./Competitions_and_project_demostration_image/IMG_4202.jpg" alt="image" />
         </div>
     </div>
   )
