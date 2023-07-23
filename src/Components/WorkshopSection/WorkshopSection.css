@@ -1,5 +1,22 @@
 .workshop-section{
-    background-color: wheat;
-    border: 2px solid red;
-    height: 100vh;
+    /* background-color: wheat; */
+    /* border: 2px solid red; */
+    max-width: 1080px;
+    margin: 0 auto;
+
+}
+
+.h1-heading{
+    text-align: center;
+    font-size: 3rem;
+}
+
+
+.carts{
+    display: flex;
+    flex-direction: column;
+    gap: 85px;
+    margin-top: 121px;
+    margin-bottom: 100px;
+
 }
