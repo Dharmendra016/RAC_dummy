@@ -48,10 +48,12 @@ a{
     transition: 0.2s;
     background-color:#4353ff;
     color:rgba(255, 255, 255, 0.945);
+    transition: 0.2s;
 }
 
 .btn:hover{
     background-color: #3545ee;
+    box-shadow: 5px 5px 0px #000000ce;
     color: white;
 }
 
